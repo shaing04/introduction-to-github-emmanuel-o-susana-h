@@ -1,5 +1,5 @@
 # Introduction to Git and GitHub
-Learned how to utitlize git/gihub
+Learned how to utilize git/gihub
 
 ## Introduction
 
